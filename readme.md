@@ -1,6 +1,15 @@
 # Climate Care Application
  
 Welcome to the Climate Care application – your digital companion in the journey towards a more sustainable future. Our platform is dedicated to those who are concerned about climate change and eager to make a positive impact. Through a blend of education, awareness, and action, we empower individuals and communities to become proactive environmental stewards. Let's dive into the features that make Climate Care a unique tool in the fight against climate change.
+
+## Technologies & Tools Used:
+- Languages: JavaScript (Node.js and Express for backend, React for frontend)
+- Frameworks: Node.js and Express (for backend API development), React (for frontend)
+- Data Visualization: D3.js (for carbon emissions data visualization)
+- Database: MongoDB (for storing user data, event details, and carbon footprint information)
+- Libraries: JWT (for secure authentication), Pandas (for carbon footprint data processing)
+- Build & Deployment: Docker, AWS
+- API Testing: Postman (for testing API endpoints)
  
 ## Features Overview
  
