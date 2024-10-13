@@ -33,17 +33,17 @@ Understanding your carbon footprint is the first step towards reducing it. Our C
 Get involved in environmental events and initiatives ranging from beach cleanups to campaigns against single-use plastics. Our platform enables both individuals and NGOs to engage with and organize events, fostering a community of active participants in the cause of climate preservation.
  
 ### API Endpoints
--GET /api/events- Access a comprehensive list of upcoming environmental events.
--POST /api/events: Contribute to the community calendar by submitting new events.
+- GET /api/events- Access a comprehensive list of upcoming environmental events.
+- POST /api/events: Contribute to the community calendar by submitting new events.
  
 ## User and Authentication
  
 To offer a personalized experience, Climate Care supports user registration and authentication. Securely log in to access and customize your environmental journey.
  
 ### API Endpoints:
--POST /api/users/register: Join the Climate Care community.
--POST /api/users/login: Access your personalized dashboard and features.
--GET /api/users/profile: Retrieve your profile information and track your environmental impact.
+- POST /api/users/register: Join the Climate Care community.
+- POST /api/users/login: Access your personalized dashboard and features.
+- GET /api/users/profile: Retrieve your profile information and track your environmental impact.
  
  
 ## Getting Started
